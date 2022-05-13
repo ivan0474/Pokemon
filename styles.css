@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#pokemon_box{
+    position: relative;
+    display: block;
+    background-color:orange ;
+    border:1px solid red;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
